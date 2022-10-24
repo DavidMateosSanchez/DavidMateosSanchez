@@ -8,7 +8,7 @@ Una vez finalizado este primer paso, me dispongo a entrar en el mundo laboral co
 
 <h3 align="left">📫 Contacto: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-mateos-sanchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-mateos-sanchez/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-mateos-sanchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-mateos-sanchez/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">⚡ Tecnologías y herramientas: </h3>
