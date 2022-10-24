@@ -1,5 +1,11 @@
 ### Hola, soy David Mateos Sánchez 👋
 
+Tras unos primeros años en el sector de los RRHH, decidí empezar un nuevo viaje en mi trayectoria profesional para adentrarme en un área por la cual, de forma autodidacta, siempre me había sentido atraído, la programación. 💻
+
+La primera etapa que me propuse completar, fue cursar el Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 👨‍💻, el cual me ha permitido obtener unas buenas bases en multitud de campos, lenguajes y herramientas relacionados con la programación: C#, Java, HTML, SQL, Kotlin, Android Studio...
+
+Una vez finalizado este primer paso, me dispongo a entrar en el mundo laboral con la intención de seguir aprendiendo y mejorando como profesional diariamente en este apasionante mundo de la programación. 💪🚀
+
 <h3 align="left">📫 Contacto: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/david-mateos-sanchez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-mateos-sanchez/" height="30" width="40" /></a>
