@@ -1,5 +1,7 @@
 ### Hola, soy David Mateos Sánchez 👋
 
+![alt text](https://github.com/DavidMateosSanchez/DavidMateosSanchez/blob/c82ac1a706544f9180c37ada38dd29eaec7de30a/cabeceraDavid.png)
+
 Tras unos primeros años en el sector de los RRHH, decidí empezar un nuevo viaje en mi trayectoria profesional para adentrarme en un área por la cual, de forma autodidacta, siempre me había sentido atraído, la programación. 💻
 
 La primera etapa que me propuse completar, fue cursar el Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 👨‍💻, el cual me ha permitido obtener unas buenas bases en multitud de campos, lenguajes y herramientas relacionados con la programación: C#, Java, HTML, SQL, Kotlin, Android Studio...
