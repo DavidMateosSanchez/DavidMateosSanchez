@@ -2,11 +2,11 @@
 
 ![alt text](https://github.com/DavidMateosSanchez/DavidMateosSanchez/blob/c82ac1a706544f9180c37ada38dd29eaec7de30a/cabeceraDavid.png)
 
-Tras unos primeros años en el sector de los RRHH, decidí empezar un nuevo viaje en mi trayectoria profesional para adentrarme en un área por la cual, de forma autodidacta, siempre me había sentido atraído, la programación. 💻
+Tras unos primeros años en el sector de los RRHH, decidí empezar un nuevo viaje en mi trayectoria profesional para adentrarme en un área por la cual siempre me había sentido atraído, la programación.💻
 
-La primera etapa que me propuse completar, fue cursar el Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 👨‍💻, el cual me ha permitido obtener unas buenas bases en multitud de campos, lenguajes y herramientas relacionados con la programación: C#, Java, HTML, SQL, Kotlin, Android Studio...
+El primer paso fue cursar el Técnico Superior en Desarrollo de Aplicaciones Multiplataforma 👨‍💻, ello me ha permitido obtener unas buenas bases en multitud de campos, lenguajes y herramientas. 
 
-Una vez finalizado este primer paso, me dispongo a entrar en el mundo laboral con la intención de seguir aprendiendo y mejorando como profesional diariamente en este apasionante mundo de la programación. 💪🚀
+A día de hoy, he decidido especializarme en el desarrollo de aplicaciones para dispositivos móviles, asentando y mejorando mis conocimientos en el lenguaje de programación Kotlin para el desarrollo de aplicaciones nativas para Android. Mi objetivo es adentrarme en el mundo laboral en este sector, mejorando diariamente como profesional y desarrollar mis aptitudes al máximo. 💪🚀
 
 <h3 align="left">📫 Contacto: </h3>
 <p align="left">
